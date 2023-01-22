@@ -10,7 +10,7 @@ Junction is a small town with two suburbs. The data file “Major Project – Da
 - POOL = 1 if house has a pool, 0 otherwise
 - PRICE = price at which the house was sold (in dollars)
 - AGENT = selling agent – “W&M” (0) or “A&B” (1)
-- SIZE = size of the house in square metres
+- SIZE = size of the house in square metres.
 - SUBURB = Mayfair (0) or Claygate (1)
 - TENNIS = 1 if house has a tennis court, 0 otherwise
 - SOLD = year of last sale (2016 to 2021)
